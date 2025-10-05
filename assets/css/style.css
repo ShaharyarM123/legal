@@ -2400,7 +2400,11 @@ section {
   top: 0;
 }
 .footer--widget-recent .entry--content {
-  padding-left: 90px;
+  padding-left: 0;
+  text-align: center;
+}
+.footer--widget-recent .footer--widget-content {
+  text-align: center;
 }
 .footer--widget-recent .entry--meta {
   color: #888888;
@@ -3739,3 +3743,4 @@ ul.comments-list ul.comment-children ul .comment-body .comment {
 }
 
 /*# sourceMappingURL=style.css.map */
+
